@@ -1,0 +1,13 @@
+
+body {
+  background-image: url('https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg');
+}
+
+.card {
+  margin-top: 20rem;
+  color:deeppink
+}
+
+h4{
+  font-family: cursive, Lucida;
+}
